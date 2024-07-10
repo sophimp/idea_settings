@@ -76,6 +76,11 @@
       <option name="INCLUDE" value="true" />
     </filter>
     <filter>
+      <option name="PATTERN" value="org.mockito.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
@@ -97,9 +102,7 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
-          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
           <nt-symbol-settings />
-          <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
     </debuggers>
