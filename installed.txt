@@ -1,5 +1,16 @@
+com.knziha.vectorpathtweaker
+com.ankit.mahadik.json.dart.class
+idv.freddie.plugin.decompiler
 Dart
+com.tao.getx
+com.intellij.lang.jsgraphql
+org.ollide.java2smali
+wu.seal.tool.jsontokotlin
+idea.plugin.protoeditor
 IdeaVIM
+com.jetbrains.kmm
+com.squareup.sqldelight
+de.ohmesoftware.parcelablegenerator
+org.jetbrains.compose.desktop.ide
 ru.ztrap.plugin.idea.compose-color-preview
-com.thelumiereguy.compose_helper
 io.flutter
